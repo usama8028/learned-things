@@ -2,7 +2,6 @@
 This repository contains details about the things I've learned till...
 
 ## Git and Commands
-****
 
 **git config --global user. name** _"name"_ 
 
@@ -69,7 +68,7 @@ This repository contains details about the things I've learned till...
 ****
         
 ## React
-****
+
 
 **default vs named export**
 
